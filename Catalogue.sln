@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogue.DTO", "Catalogue\Catalogue.DTO.csproj", "{645F7844-84A9-4E63-8329-A47869DA4D91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDataLoader", "FileReader\FileDataLoader.csproj", "{D5DEC961-01BC-4FD7-AF64-B8F957555078}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{645F7844-84A9-4E63-8329-A47869DA4D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{645F7844-84A9-4E63-8329-A47869DA4D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{645F7844-84A9-4E63-8329-A47869DA4D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DEC961-01BC-4FD7-AF64-B8F957555078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DEC961-01BC-4FD7-AF64-B8F957555078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DEC961-01BC-4FD7-AF64-B8F957555078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DEC961-01BC-4FD7-AF64-B8F957555078}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
